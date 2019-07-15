@@ -4,7 +4,7 @@ header-img: "img/green.jpg"
 tagline: "cn"  
 description: "每天进步一点点"  # 一句话描述你的博客
 baseurl: ""
-url: "http://hkkaola.github.io"  # 此处填写你的博客地址 
+url: "https://hkkaola.github.io"  # 此处填写你的博客地址 
 
 # About/contact
 owner: 
