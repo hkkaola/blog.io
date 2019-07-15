@@ -2,7 +2,7 @@
 title: hkkaola # 你的博客名字，可以定义修订
 header-img: "img/green.jpg"
 tagline: "cn"  
-description: "这是我的博客"  # 一句话描述你的博客
+description: "每天进步一点点"  # 一句话描述你的博客
 baseurl: ""
 url: "http://hkkaola.github.io"  # 此处填写你的博客地址 
 
@@ -16,12 +16,12 @@ owner:
 gavatar: img/favicon.png # 浏览器地址栏小图标，可自定义更改
 favicon: img/favicon.png # 浏览器地址栏小图标，可自定义更改
 
-douban_username:  # 你的豆瓣id
-twitter_username: 
+douban_username:none  # 你的豆瓣id
+twitter_username: none
 github_username: hkkaola
-facebook_username: 
-weibo_username: 
-zhihu_username: 
+facebook_username: none
+weibo_username: none
+zhihu_username: none
 
 # Build settings  
 # use Github Flavored Markdown !important  
